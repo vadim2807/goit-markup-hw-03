@@ -337,7 +337,7 @@ img {
   padding-bottom: 100px;
 }
 
-.ftr .container {
+.container-flex {
   display: flex;
   flex-direction: column;
   gap: 16px;
