@@ -253,17 +253,11 @@ img {
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
 
-.sec-three-part {
-  display: flex;
-  flex-direction: column;
-  padding: 32px 0;
-  gap: 8px;
-}
-
 .sec-three-txt {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  margin: 0 auto 32px;
 }
 
 .sec-three-img {
@@ -276,7 +270,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
-  margin-bottom: 8px;
+  margin: 32px auto 8px;
 }
 
 /******************** main portf ************************/
